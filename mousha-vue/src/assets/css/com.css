@@ -1,0 +1,28 @@
+.shop-iocn {
+    display: inline-block;
+    height: 28px;
+    width: 28px;
+    background-size: cover !important;
+
+}
+.pdd {
+    background: url('assets/img/pdd.png') no-repeat 0 0;
+}
+
+.tianmao {
+    background: url('@/assets/img/tianmao.png') no-repeat 0 0;
+}
+
+.jingdong {
+    background: url('assets/img/jingdong.png') no-repeat 0 0;
+
+}
+
+.taobao {
+    background: url('assets/img/taobao.png') no-repeat 0 0;
+
+}
+.wp {
+    background: url('assets/img/taobao.png') no-repeat 0 0;
+
+}
